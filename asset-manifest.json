@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/julOnSaleReact/static/css/main.1d480c82.css",
-    "main.js": "/julOnSaleReact/static/js/main.b5d97efd.js",
-    "static/js/377.e8ae0c8b.chunk.js": "/julOnSaleReact/static/js/377.e8ae0c8b.chunk.js",
-    "static/media/Acme-Regular.ttf": "/julOnSaleReact/static/media/Acme-Regular.9f25ca8b2435fcab381a.ttf",
-    "index.html": "/julOnSaleReact/index.html",
-    "main.1d480c82.css.map": "/julOnSaleReact/static/css/main.1d480c82.css.map",
-    "main.b5d97efd.js.map": "/julOnSaleReact/static/js/main.b5d97efd.js.map",
-    "377.e8ae0c8b.chunk.js.map": "/julOnSaleReact/static/js/377.e8ae0c8b.chunk.js.map"
+    "main.css": "/test/static/css/main.6f198574.css",
+    "main.js": "/test/static/js/main.1b332573.js",
+    "static/js/377.e8ae0c8b.chunk.js": "/test/static/js/377.e8ae0c8b.chunk.js",
+    "static/media/Acme-Regular.ttf": "/test/static/media/Acme-Regular.9f25ca8b2435fcab381a.ttf",
+    "index.html": "/test/index.html",
+    "main.6f198574.css.map": "/test/static/css/main.6f198574.css.map",
+    "main.1b332573.js.map": "/test/static/js/main.1b332573.js.map",
+    "377.e8ae0c8b.chunk.js.map": "/test/static/js/377.e8ae0c8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d480c82.css",
-    "static/js/main.b5d97efd.js"
+    "static/css/main.6f198574.css",
+    "static/js/main.1b332573.js"
   ]
 }
